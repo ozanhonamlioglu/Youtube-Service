@@ -1,0 +1,13 @@
+{
+    "homefeed": [
+        {
+            "type": "video"
+        },
+        {
+            "type": "story"
+        },
+        {
+            "type": "news"
+        }
+    ]
+  }
