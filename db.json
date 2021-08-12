@@ -1,7 +1,13 @@
 {
     "homefeed": [
         {
-            "type": "video"
+            "type": "video",
+            "name": "Yamaha R1 Full Review",
+            "channel": "Motor Channel",
+            "views": 18.000,
+            "timestamp": "Thu Jul 12 2001 00:00:00 GMT+0300 (GMT+03:00)",
+            "preiewImage": "https://picsum.photos/300/200",
+            "duration": "15.00"
         },
         {
             "type": "story"
