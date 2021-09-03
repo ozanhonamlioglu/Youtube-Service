@@ -2,18 +2,68 @@
     "homefeed": [
         {
             "type": "video",
-            "name": "Yamaha R1 Full Review",
+            "description": "Yamaha R1 Full Review",
             "channel": "Motor Channel",
             "views": 18.000,
             "timestamp": "Thu Jul 12 2001 00:00:00 GMT+0300 (GMT+03:00)",
             "preiewImage": "https://picsum.photos/300/200",
-            "duration": "15.00"
+            "duration": "02:00"
         },
         {
-            "type": "story"
+            "type": "shorts",
+            "data": [
+                {
+                    "content": "Did apple dying",
+                    "views": 12.000,
+                    "id": "xyz",
+                    "preiewImage": "https://picsum.photos/200/261"
+                },
+                {
+                    "content": "Cat on memory foam and dogs",
+                    "views": 71.000000,
+                    "id": "qwer",
+                    "preiewImage": "https://picsum.photos/201/260"
+                },
+                {
+                    "content": "Apple air tag",
+                    "views": 12.000000,
+                    "id": "qwer12",
+                    "preiewImage": "https://picsum.photos/200/262"
+                },
+                {
+                    "content": "Who say's Tesla can't drift?",
+                    "views": 15.000000,
+                    "id": "qwer",
+                    "preiewImage": "https://picsum.photos/201/262"
+                },
+                {
+                    "content": "2022 Yamaha R7 Sound-Stock vs. Yoshimura R-77 Full system",
+                    "views": 19.000000,
+                    "id": "qwer",
+                    "preiewImage": "https://picsum.photos/202/261"
+                }
+            ]
         },
         {
             "type": "news"
+        },
+        {
+            "type": "video",
+            "description": "2022 Yamaha R7 Sound-Stock vs. Yoshimura R-77 Full system",
+            "channel": "Motor Channel",
+            "views": 18.000,
+            "timestamp": "Thu Jul 12 2001 00:00:00 GMT+0300 (GMT+03:00)",
+            "preiewImage": "https://picsum.photos/300/200",
+            "duration": "09.00"
+        },
+        {
+            "type": "video",
+            "description": "Yamaha R1 Full Review",
+            "channel": "Motor Channel",
+            "views": 18.000,
+            "timestamp": "How I Remade The Simpsons Hit and Run in a Week",
+            "preiewImage": "https://picsum.photos/300/200",
+            "duration": "15:00"
         }
     ]
   }
